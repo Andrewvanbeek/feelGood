@@ -7,6 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5097E5B1BBFB7EEC1EA79649 /* Pods_feelGoodUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28D34631855AA627CF2882DF /* Pods_feelGoodUITests.framework */; };
+		9305177C21F2C67900384A39 /* Maldives.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9305177B21F2C67900384A39 /* Maldives.jpg */; };
+		9305177E21F2C6EC00384A39 /* wave.png in Resources */ = {isa = PBXBuildFile; fileRef = 9305177D21F2C6EC00384A39 /* wave.png */; };
+		930517A421F2CBD000384A39 /* Montserrat-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179221F2CBCD00384A39 /* Montserrat-BoldItalic.ttf */; };
+		930517A521F2CBD000384A39 /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179321F2CBCE00384A39 /* Montserrat-Bold.ttf */; };
+		930517A621F2CBD000384A39 /* Montserrat-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179421F2CBCE00384A39 /* Montserrat-MediumItalic.ttf */; };
+		930517A721F2CBD000384A39 /* Montserrat-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179521F2CBCE00384A39 /* Montserrat-SemiBoldItalic.ttf */; };
+		930517A821F2CBD000384A39 /* Montserrat-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179621F2CBCE00384A39 /* Montserrat-ExtraBoldItalic.ttf */; };
+		930517A921F2CBD000384A39 /* Montserrat-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179721F2CBCE00384A39 /* Montserrat-ExtraLight.ttf */; };
+		930517AA21F2CBD000384A39 /* Montserrat-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179821F2CBCE00384A39 /* Montserrat-Black.ttf */; };
+		930517AB21F2CBD000384A39 /* Montserrat-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179921F2CBCE00384A39 /* Montserrat-Light.ttf */; };
+		930517AC21F2CBD000384A39 /* Montserrat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179A21F2CBCE00384A39 /* Montserrat-SemiBold.ttf */; };
+		930517AD21F2CBD000384A39 /* Montserrat-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179B21F2CBCE00384A39 /* Montserrat-ExtraBold.ttf */; };
+		930517AE21F2CBD000384A39 /* Montserrat-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179C21F2CBCF00384A39 /* Montserrat-Thin.ttf */; };
+		930517AF21F2CBD000384A39 /* Montserrat-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179D21F2CBCF00384A39 /* Montserrat-LightItalic.ttf */; };
+		930517B021F2CBD000384A39 /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179E21F2CBCF00384A39 /* Montserrat-Regular.ttf */; };
+		930517B121F2CBD000384A39 /* Montserrat-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9305179F21F2CBCF00384A39 /* Montserrat-ThinItalic.ttf */; };
+		930517B221F2CBD000384A39 /* Montserrat-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 930517A021F2CBCF00384A39 /* Montserrat-ExtraLightItalic.ttf */; };
+		930517B321F2CBD000384A39 /* Montserrat-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 930517A121F2CBCF00384A39 /* Montserrat-BlackItalic.ttf */; };
+		930517B421F2CBD000384A39 /* Montserrat-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 930517A221F2CBCF00384A39 /* Montserrat-Italic.ttf */; };
+		930517B521F2CBD000384A39 /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 930517A321F2CBD000384A39 /* Montserrat-Medium.ttf */; };
+		930517B721F2D48A00384A39 /* setMessageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930517B621F2D48900384A39 /* setMessageController.swift */; };
+		930517B921F5461A00384A39 /* placePickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930517B821F5461A00384A39 /* placePickerViewController.swift */; };
+		930517BE21F5568300384A39 /* GoogleDataProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930517BB21F5568300384A39 /* GoogleDataProvider.swift */; };
+		930517BF21F5568300384A39 /* GooglePlace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930517BC21F5568300384A39 /* GooglePlace.swift */; };
+		930517C021F5568300384A39 /* PlaceMarker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930517BD21F5568300384A39 /* PlaceMarker.swift */; };
+		930517D321F556B900384A39 /* MarkerInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930517D021F556B900384A39 /* MarkerInfoView.swift */; };
+		930517D421F556B900384A39 /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930517D121F556B900384A39 /* UIViewExtension.swift */; };
+		930517D521F556B900384A39 /* MarkerInfoView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 930517D221F556B900384A39 /* MarkerInfoView.xib */; };
+		930517D921F556D500384A39 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930517D721F556D500384A39 /* MapViewController.swift */; };
+		930517DA21F556D500384A39 /* TypesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930517D821F556D500384A39 /* TypesTableViewController.swift */; };
+		930517DC21F600A500384A39 /* AugmentedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930517DB21F600A500384A39 /* AugmentedViewController.swift */; };
+		930517DE21F6075900384A39 /* pin.png in Resources */ = {isa = PBXBuildFile; fileRef = 930517DD21F6075900384A39 /* pin.png */; };
+		930517E221F60BF800384A39 /* placepin.png in Resources */ = {isa = PBXBuildFile; fileRef = 930517E121F60BF800384A39 /* placepin.png */; };
+		930517E421F6259B00384A39 /* Okta.plist in Resources */ = {isa = PBXBuildFile; fileRef = 930517E321F6259A00384A39 /* Okta.plist */; };
+		930517E621F628F200384A39 /* models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930517E521F628F200384A39 /* models.swift */; };
+		930517E821F68E5300384A39 /* HealthKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 930517E721F68E5300384A39 /* HealthKit.framework */; };
+		930517EB21F68F7C00384A39 /* healthDataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930517EA21F68F7B00384A39 /* healthDataViewController.swift */; };
+		930517ED21F6993600384A39 /* consumedcalories.png in Resources */ = {isa = PBXBuildFile; fileRef = 930517EC21F6993400384A39 /* consumedcalories.png */; };
+		930517EF21F6994A00384A39 /* burnedcalories.png in Resources */ = {isa = PBXBuildFile; fileRef = 930517EE21F6994900384A39 /* burnedcalories.png */; };
+		930517F121F6995500384A39 /* zzz.png in Resources */ = {isa = PBXBuildFile; fileRef = 930517F021F6995400384A39 /* zzz.png */; };
 		93CE54A221D702E100E265D3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93CE54A121D702E100E265D3 /* AppDelegate.swift */; };
 		93CE54A421D702E100E265D3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93CE54A321D702E100E265D3 /* ViewController.swift */; };
 		93CE54A721D702E100E265D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93CE54A521D702E100E265D3 /* Main.storyboard */; };
@@ -14,6 +55,10 @@
 		93CE54AC21D702E500E265D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93CE54AA21D702E500E265D3 /* LaunchScreen.storyboard */; };
 		93CE54B721D702E500E265D3 /* feelGoodTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93CE54B621D702E500E265D3 /* feelGoodTests.swift */; };
 		93CE54C221D702E500E265D3 /* feelGoodUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93CE54C121D702E500E265D3 /* feelGoodUITests.swift */; };
+		93CE54D021D703E500E265D3 /* yoga.png in Resources */ = {isa = PBXBuildFile; fileRef = 93CE54CF21D703E500E265D3 /* yoga.png */; };
+		93CE54D221D7045200E265D3 /* AzurLane.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 93CE54D121D7045200E265D3 /* AzurLane.jpg */; };
+		B1A8A2D62AA2ABA948726229 /* Pods_feelGood.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E58F8D990157021AC6B8D4 /* Pods_feelGood.framework */; };
+		D635197566CF34B3E206781B /* Pods_feelGoodTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 02138D260ACA98718646BF18 /* Pods_feelGoodTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +79,53 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		02138D260ACA98718646BF18 /* Pods_feelGoodTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_feelGoodTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B38C0154AD0E8DF4C088D73 /* Pods-feelGood.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-feelGood.release.xcconfig"; path = "Target Support Files/Pods-feelGood/Pods-feelGood.release.xcconfig"; sourceTree = "<group>"; };
+		23D9C4593577329D2FC38E7F /* Pods-feelGoodUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-feelGoodUITests.debug.xcconfig"; path = "Target Support Files/Pods-feelGoodUITests/Pods-feelGoodUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		28D34631855AA627CF2882DF /* Pods_feelGoodUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_feelGoodUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BD2558564EA757B879EBCA8 /* Pods-feelGood.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-feelGood.debug.xcconfig"; path = "Target Support Files/Pods-feelGood/Pods-feelGood.debug.xcconfig"; sourceTree = "<group>"; };
+		2EB967D8CA92F5F9B0412B02 /* Pods-feelGoodTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-feelGoodTests.debug.xcconfig"; path = "Target Support Files/Pods-feelGoodTests/Pods-feelGoodTests.debug.xcconfig"; sourceTree = "<group>"; };
+		9305177B21F2C67900384A39 /* Maldives.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Maldives.jpg; sourceTree = "<group>"; };
+		9305177D21F2C6EC00384A39 /* wave.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wave.png; sourceTree = "<group>"; };
+		9305179221F2CBCD00384A39 /* Montserrat-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-BoldItalic.ttf"; sourceTree = "<group>"; };
+		9305179321F2CBCE00384A39 /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Bold.ttf"; sourceTree = "<group>"; };
+		9305179421F2CBCE00384A39 /* Montserrat-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-MediumItalic.ttf"; sourceTree = "<group>"; };
+		9305179521F2CBCE00384A39 /* Montserrat-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		9305179621F2CBCE00384A39 /* Montserrat-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		9305179721F2CBCE00384A39 /* Montserrat-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraLight.ttf"; sourceTree = "<group>"; };
+		9305179821F2CBCE00384A39 /* Montserrat-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Black.ttf"; sourceTree = "<group>"; };
+		9305179921F2CBCE00384A39 /* Montserrat-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Light.ttf"; sourceTree = "<group>"; };
+		9305179A21F2CBCE00384A39 /* Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
+		9305179B21F2CBCE00384A39 /* Montserrat-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraBold.ttf"; sourceTree = "<group>"; };
+		9305179C21F2CBCF00384A39 /* Montserrat-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Thin.ttf"; sourceTree = "<group>"; };
+		9305179D21F2CBCF00384A39 /* Montserrat-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-LightItalic.ttf"; sourceTree = "<group>"; };
+		9305179E21F2CBCF00384A39 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Regular.ttf"; sourceTree = "<group>"; };
+		9305179F21F2CBCF00384A39 /* Montserrat-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ThinItalic.ttf"; sourceTree = "<group>"; };
+		930517A021F2CBCF00384A39 /* Montserrat-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		930517A121F2CBCF00384A39 /* Montserrat-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-BlackItalic.ttf"; sourceTree = "<group>"; };
+		930517A221F2CBCF00384A39 /* Montserrat-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Italic.ttf"; sourceTree = "<group>"; };
+		930517A321F2CBD000384A39 /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Medium.ttf"; sourceTree = "<group>"; };
+		930517B621F2D48900384A39 /* setMessageController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = setMessageController.swift; sourceTree = "<group>"; };
+		930517B821F5461A00384A39 /* placePickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = placePickerViewController.swift; sourceTree = "<group>"; };
+		930517BB21F5568300384A39 /* GoogleDataProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GoogleDataProvider.swift; sourceTree = "<group>"; };
+		930517BC21F5568300384A39 /* GooglePlace.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GooglePlace.swift; sourceTree = "<group>"; };
+		930517BD21F5568300384A39 /* PlaceMarker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceMarker.swift; sourceTree = "<group>"; };
+		930517D021F556B900384A39 /* MarkerInfoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MarkerInfoView.swift; sourceTree = "<group>"; };
+		930517D121F556B900384A39 /* UIViewExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
+		930517D221F556B900384A39 /* MarkerInfoView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MarkerInfoView.xib; sourceTree = "<group>"; };
+		930517D721F556D500384A39 /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		930517D821F556D500384A39 /* TypesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypesTableViewController.swift; sourceTree = "<group>"; };
+		930517DB21F600A500384A39 /* AugmentedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AugmentedViewController.swift; sourceTree = "<group>"; };
+		930517DD21F6075900384A39 /* pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pin.png; sourceTree = "<group>"; };
+		930517E121F60BF800384A39 /* placepin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = placepin.png; path = ../../../Downloads/placepin.png; sourceTree = "<group>"; };
+		930517E321F6259A00384A39 /* Okta.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Okta.plist; sourceTree = "<group>"; };
+		930517E521F628F200384A39 /* models.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = models.swift; sourceTree = "<group>"; };
+		930517E721F68E5300384A39 /* HealthKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HealthKit.framework; path = System/Library/Frameworks/HealthKit.framework; sourceTree = SDKROOT; };
+		930517E921F68E5300384A39 /* feelGood.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = feelGood.entitlements; sourceTree = "<group>"; };
+		930517EA21F68F7B00384A39 /* healthDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = healthDataViewController.swift; sourceTree = "<group>"; };
+		930517EC21F6993400384A39 /* consumedcalories.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = consumedcalories.png; sourceTree = "<group>"; };
+		930517EE21F6994900384A39 /* burnedcalories.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = burnedcalories.png; sourceTree = "<group>"; };
+		930517F021F6995400384A39 /* zzz.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zzz.png; sourceTree = "<group>"; };
 		93CE549E21D702E100E265D3 /* feelGood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = feelGood.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93CE54A121D702E100E265D3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		93CE54A321D702E100E265D3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +139,11 @@
 		93CE54BD21D702E500E265D3 /* feelGoodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = feelGoodUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		93CE54C121D702E500E265D3 /* feelGoodUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feelGoodUITests.swift; sourceTree = "<group>"; };
 		93CE54C321D702E500E265D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93CE54CF21D703E500E265D3 /* yoga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yoga.png; sourceTree = "<group>"; };
+		93CE54D121D7045200E265D3 /* AzurLane.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AzurLane.jpg; sourceTree = "<group>"; };
+		C6E58F8D990157021AC6B8D4 /* Pods_feelGood.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_feelGood.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E507BC08A55F45D8CBD01D73 /* Pods-feelGoodTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-feelGoodTests.release.xcconfig"; path = "Target Support Files/Pods-feelGoodTests/Pods-feelGoodTests.release.xcconfig"; sourceTree = "<group>"; };
+		FD0CF8802398B76F5FA66952 /* Pods-feelGoodUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-feelGoodUITests.release.xcconfig"; path = "Target Support Files/Pods-feelGoodUITests/Pods-feelGoodUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +151,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1A8A2D62AA2ABA948726229 /* Pods_feelGood.framework in Frameworks */,
+				930517E821F68E5300384A39 /* HealthKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +160,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D635197566CF34B3E206781B /* Pods_feelGoodTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +168,66 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5097E5B1BBFB7EEC1EA79649 /* Pods_feelGoodUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		341E0BD89FA1F64F742924E8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				930517E721F68E5300384A39 /* HealthKit.framework */,
+				C6E58F8D990157021AC6B8D4 /* Pods_feelGood.framework */,
+				02138D260ACA98718646BF18 /* Pods_feelGoodTests.framework */,
+				28D34631855AA627CF2882DF /* Pods_feelGoodUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4E12129B693CEF0ED326E1D1 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2BD2558564EA757B879EBCA8 /* Pods-feelGood.debug.xcconfig */,
+				1B38C0154AD0E8DF4C088D73 /* Pods-feelGood.release.xcconfig */,
+				2EB967D8CA92F5F9B0412B02 /* Pods-feelGoodTests.debug.xcconfig */,
+				E507BC08A55F45D8CBD01D73 /* Pods-feelGoodTests.release.xcconfig */,
+				23D9C4593577329D2FC38E7F /* Pods-feelGoodUITests.debug.xcconfig */,
+				FD0CF8802398B76F5FA66952 /* Pods-feelGoodUITests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		930517BA21F5568300384A39 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				930517BB21F5568300384A39 /* GoogleDataProvider.swift */,
+				930517BC21F5568300384A39 /* GooglePlace.swift */,
+				930517BD21F5568300384A39 /* PlaceMarker.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		930517CF21F556B900384A39 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				930517D021F556B900384A39 /* MarkerInfoView.swift */,
+				930517D121F556B900384A39 /* UIViewExtension.swift */,
+				930517D221F556B900384A39 /* MarkerInfoView.xib */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		930517D621F556D500384A39 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				930517D721F556D500384A39 /* MapViewController.swift */,
+				930517D821F556D500384A39 /* TypesTableViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
 		93CE549521D702E100E265D3 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +235,8 @@
 				93CE54B521D702E500E265D3 /* feelGoodTests */,
 				93CE54C021D702E500E265D3 /* feelGoodUITests */,
 				93CE549F21D702E100E265D3 /* Products */,
+				4E12129B693CEF0ED326E1D1 /* Pods */,
+				341E0BD89FA1F64F742924E8 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,9 +253,46 @@
 		93CE54A021D702E100E265D3 /* feelGood */ = {
 			isa = PBXGroup;
 			children = (
+				930517E921F68E5300384A39 /* feelGood.entitlements */,
+				930517BA21F5568300384A39 /* Model */,
+				930517CF21F556B900384A39 /* Views */,
+				930517D621F556D500384A39 /* Controllers */,
+				9305179321F2CBCE00384A39 /* Montserrat-Bold.ttf */,
+				9305179221F2CBCD00384A39 /* Montserrat-BoldItalic.ttf */,
+				9305179B21F2CBCE00384A39 /* Montserrat-ExtraBold.ttf */,
+				9305179821F2CBCE00384A39 /* Montserrat-Black.ttf */,
+				930517A121F2CBCF00384A39 /* Montserrat-BlackItalic.ttf */,
+				9305179621F2CBCE00384A39 /* Montserrat-ExtraBoldItalic.ttf */,
+				9305179721F2CBCE00384A39 /* Montserrat-ExtraLight.ttf */,
+				930517A021F2CBCF00384A39 /* Montserrat-ExtraLightItalic.ttf */,
+				930517A221F2CBCF00384A39 /* Montserrat-Italic.ttf */,
+				9305179921F2CBCE00384A39 /* Montserrat-Light.ttf */,
+				9305179D21F2CBCF00384A39 /* Montserrat-LightItalic.ttf */,
+				930517A321F2CBD000384A39 /* Montserrat-Medium.ttf */,
+				9305179421F2CBCE00384A39 /* Montserrat-MediumItalic.ttf */,
+				9305179E21F2CBCF00384A39 /* Montserrat-Regular.ttf */,
+				9305179A21F2CBCE00384A39 /* Montserrat-SemiBold.ttf */,
+				9305179521F2CBCE00384A39 /* Montserrat-SemiBoldItalic.ttf */,
+				9305179C21F2CBCF00384A39 /* Montserrat-Thin.ttf */,
+				9305179F21F2CBCF00384A39 /* Montserrat-ThinItalic.ttf */,
 				93CE54A121D702E100E265D3 /* AppDelegate.swift */,
+				930517B821F5461A00384A39 /* placePickerViewController.swift */,
+				930517EA21F68F7B00384A39 /* healthDataViewController.swift */,
+				930517DB21F600A500384A39 /* AugmentedViewController.swift */,
 				93CE54A321D702E100E265D3 /* ViewController.swift */,
+				930517E521F628F200384A39 /* models.swift */,
+				930517B621F2D48900384A39 /* setMessageController.swift */,
 				93CE54A521D702E100E265D3 /* Main.storyboard */,
+				930517EC21F6993400384A39 /* consumedcalories.png */,
+				930517EE21F6994900384A39 /* burnedcalories.png */,
+				930517F021F6995400384A39 /* zzz.png */,
+				93CE54CF21D703E500E265D3 /* yoga.png */,
+				930517E121F60BF800384A39 /* placepin.png */,
+				930517DD21F6075900384A39 /* pin.png */,
+				9305177D21F2C6EC00384A39 /* wave.png */,
+				93CE54D121D7045200E265D3 /* AzurLane.jpg */,
+				930517E321F6259A00384A39 /* Okta.plist */,
+				9305177B21F2C67900384A39 /* Maldives.jpg */,
 				93CE54A821D702E500E265D3 /* Assets.xcassets */,
 				93CE54AA21D702E500E265D3 /* LaunchScreen.storyboard */,
 				93CE54AD21D702E500E265D3 /* Info.plist */,
@@ -132,9 +325,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 93CE54C621D702E500E265D3 /* Build configuration list for PBXNativeTarget "feelGood" */;
 			buildPhases = (
+				8FDEDC3200D0E7C333D359B5 /* [CP] Check Pods Manifest.lock */,
 				93CE549A21D702E100E265D3 /* Sources */,
 				93CE549B21D702E100E265D3 /* Frameworks */,
 				93CE549C21D702E100E265D3 /* Resources */,
+				1280666943D7D7F4D4C17288 /* [CP] Copy Pods Resources */,
+				216B2AEDB5E68031A4C2952A /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -149,6 +345,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 93CE54C921D702E500E265D3 /* Build configuration list for PBXNativeTarget "feelGoodTests" */;
 			buildPhases = (
+				530B432BE8ECB5CE1759B704 /* [CP] Check Pods Manifest.lock */,
 				93CE54AE21D702E500E265D3 /* Sources */,
 				93CE54AF21D702E500E265D3 /* Frameworks */,
 				93CE54B021D702E500E265D3 /* Resources */,
@@ -167,6 +364,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 93CE54CC21D702E500E265D3 /* Build configuration list for PBXNativeTarget "feelGoodUITests" */;
 			buildPhases = (
+				051C24D579865CC742142559 /* [CP] Check Pods Manifest.lock */,
 				93CE54B921D702E500E265D3 /* Sources */,
 				93CE54BA21D702E500E265D3 /* Frameworks */,
 				93CE54BB21D702E500E265D3 /* Resources */,
@@ -193,6 +391,11 @@
 				TargetAttributes = {
 					93CE549D21D702E100E265D3 = {
 						CreatedOnToolsVersion = 10.1;
+						SystemCapabilities = {
+							com.apple.HealthKit = {
+								enabled = 1;
+							};
+						};
 					};
 					93CE54B121D702E500E265D3 = {
 						CreatedOnToolsVersion = 10.1;
@@ -229,9 +432,38 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				930517AD21F2CBD000384A39 /* Montserrat-ExtraBold.ttf in Resources */,
+				930517B521F2CBD000384A39 /* Montserrat-Medium.ttf in Resources */,
+				930517AB21F2CBD000384A39 /* Montserrat-Light.ttf in Resources */,
+				930517EF21F6994A00384A39 /* burnedcalories.png in Resources */,
+				930517A621F2CBD000384A39 /* Montserrat-MediumItalic.ttf in Resources */,
+				930517B421F2CBD000384A39 /* Montserrat-Italic.ttf in Resources */,
+				930517ED21F6993600384A39 /* consumedcalories.png in Resources */,
+				930517AA21F2CBD000384A39 /* Montserrat-Black.ttf in Resources */,
+				930517F121F6995500384A39 /* zzz.png in Resources */,
+				930517E421F6259B00384A39 /* Okta.plist in Resources */,
+				930517A721F2CBD000384A39 /* Montserrat-SemiBoldItalic.ttf in Resources */,
+				930517A421F2CBD000384A39 /* Montserrat-BoldItalic.ttf in Resources */,
+				9305177C21F2C67900384A39 /* Maldives.jpg in Resources */,
+				930517B321F2CBD000384A39 /* Montserrat-BlackItalic.ttf in Resources */,
 				93CE54AC21D702E500E265D3 /* LaunchScreen.storyboard in Resources */,
+				930517B121F2CBD000384A39 /* Montserrat-ThinItalic.ttf in Resources */,
+				930517B021F2CBD000384A39 /* Montserrat-Regular.ttf in Resources */,
 				93CE54A921D702E500E265D3 /* Assets.xcassets in Resources */,
+				9305177E21F2C6EC00384A39 /* wave.png in Resources */,
+				930517DE21F6075900384A39 /* pin.png in Resources */,
+				930517AE21F2CBD000384A39 /* Montserrat-Thin.ttf in Resources */,
+				930517B221F2CBD000384A39 /* Montserrat-ExtraLightItalic.ttf in Resources */,
+				930517A521F2CBD000384A39 /* Montserrat-Bold.ttf in Resources */,
+				930517D521F556B900384A39 /* MarkerInfoView.xib in Resources */,
+				930517A921F2CBD000384A39 /* Montserrat-ExtraLight.ttf in Resources */,
 				93CE54A721D702E100E265D3 /* Main.storyboard in Resources */,
+				930517AF21F2CBD000384A39 /* Montserrat-LightItalic.ttf in Resources */,
+				930517E221F60BF800384A39 /* placepin.png in Resources */,
+				930517A821F2CBD000384A39 /* Montserrat-ExtraBoldItalic.ttf in Resources */,
+				93CE54D221D7045200E265D3 /* AzurLane.jpg in Resources */,
+				930517AC21F2CBD000384A39 /* Montserrat-SemiBold.ttf in Resources */,
+				93CE54D021D703E500E265D3 /* yoga.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,11 +483,162 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		051C24D579865CC742142559 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-feelGoodUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1280666943D7D7F4D4C17288 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-feelGood/Pods-feelGood-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
+				"${PODS_ROOT}/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Resources/GooglePlacePicker.bundle",
+				"${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleMaps.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GooglePlacePicker.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GooglePlaces.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-feelGood/Pods-feelGood-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		216B2AEDB5E68031A4C2952A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-feelGood/Pods-feelGood-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/ARCL/ARCL.framework",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/AppAuth/AppAuth.framework",
+				"${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework",
+				"${BUILT_PRODUCTS_DIR}/KeychainSwift/KeychainSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/MDFTextAccessibility/MDFTextAccessibility.framework",
+				"${BUILT_PRODUCTS_DIR}/Material/Material.framework",
+				"${BUILT_PRODUCTS_DIR}/MaterialComponents/MaterialComponents.framework",
+				"${BUILT_PRODUCTS_DIR}/Motion/Motion.framework",
+				"${BUILT_PRODUCTS_DIR}/OktaAuth/OktaAuth.framework",
+				"${BUILT_PRODUCTS_DIR}/SCLAlertView/SCLAlertView.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ARCL.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AppAuth.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IQKeyboardManager.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/KeychainSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MDFTextAccessibility.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Material.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MaterialComponents.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Motion.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OktaAuth.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SCLAlertView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-feelGood/Pods-feelGood-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		530B432BE8ECB5CE1759B704 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-feelGoodTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8FDEDC3200D0E7C333D359B5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-feelGood-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		93CE549A21D702E100E265D3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				930517D321F556B900384A39 /* MarkerInfoView.swift in Sources */,
+				930517E621F628F200384A39 /* models.swift in Sources */,
+				930517DC21F600A500384A39 /* AugmentedViewController.swift in Sources */,
+				930517BE21F5568300384A39 /* GoogleDataProvider.swift in Sources */,
+				930517EB21F68F7C00384A39 /* healthDataViewController.swift in Sources */,
+				930517DA21F556D500384A39 /* TypesTableViewController.swift in Sources */,
+				930517C021F5568300384A39 /* PlaceMarker.swift in Sources */,
+				930517D921F556D500384A39 /* MapViewController.swift in Sources */,
+				930517B921F5461A00384A39 /* placePickerViewController.swift in Sources */,
+				930517BF21F5568300384A39 /* GooglePlace.swift in Sources */,
+				930517B721F2D48A00384A39 /* setMessageController.swift in Sources */,
+				930517D421F556B900384A39 /* UIViewExtension.swift in Sources */,
 				93CE54A421D702E100E265D3 /* ViewController.swift in Sources */,
 				93CE54A221D702E100E265D3 /* AppDelegate.swift in Sources */,
 			);
@@ -430,8 +813,10 @@
 		};
 		93CE54C721D702E500E265D3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2BD2558564EA757B879EBCA8 /* Pods-feelGood.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = feelGood/feelGood.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CQWJ8RL9Y5;
 				INFOPLIST_FILE = feelGood/Info.plist;
@@ -439,7 +824,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = foxGyms.feelGood;
+				PRODUCT_BUNDLE_IDENTIFIER = avb.feelGood;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -448,8 +833,10 @@
 		};
 		93CE54C821D702E500E265D3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1B38C0154AD0E8DF4C088D73 /* Pods-feelGood.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = feelGood/feelGood.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CQWJ8RL9Y5;
 				INFOPLIST_FILE = feelGood/Info.plist;
@@ -457,7 +844,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = foxGyms.feelGood;
+				PRODUCT_BUNDLE_IDENTIFIER = avb.feelGood;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -466,6 +853,7 @@
 		};
 		93CE54CA21D702E500E265D3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2EB967D8CA92F5F9B0412B02 /* Pods-feelGoodTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -487,6 +875,7 @@
 		};
 		93CE54CB21D702E500E265D3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E507BC08A55F45D8CBD01D73 /* Pods-feelGoodTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -508,6 +897,7 @@
 		};
 		93CE54CD21D702E500E265D3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 23D9C4593577329D2FC38E7F /* Pods-feelGoodUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -528,6 +918,7 @@
 		};
 		93CE54CE21D702E500E265D3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FD0CF8802398B76F5FA66952 /* Pods-feelGoodUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

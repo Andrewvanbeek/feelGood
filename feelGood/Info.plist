@@ -2,8 +2,34 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Need that health data</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Need HealthData</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Need that camera</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Your location is required to show suggestions</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Montserrat-Medium.ttf</string>
+	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.okta.sdkvanbeektech</string>
+				<string>https://100020758.auth.konycloud.com</string>
+				<string>com.oktapreview.dev885515</string>
+				<string>100020758.auth.konycloud.com</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+	</array>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>

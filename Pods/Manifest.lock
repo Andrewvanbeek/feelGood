@@ -1,0 +1,107 @@
+PODS:
+  - Alamofire (4.8.0)
+  - AppAuth (0.91.0)
+  - ARCL (1.0.4)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.7.0):
+    - GoogleMaps (= 2.7.0)
+    - GooglePlaces (= 2.7.0)
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - IQKeyboardManager (6.2.0)
+  - KeychainSwift (13.0.0)
+  - Material (2.16.4):
+    - Material/Core (= 2.16.4)
+  - Material/Core (2.16.4):
+    - Motion (~> 1.4.3)
+  - MaterialComponents/Cards (70.0.0):
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Icons/ic_check_circle
+    - MaterialComponents/private/Math
+    - MaterialComponents/private/Shapes
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/FlexibleHeader (70.0.0):
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/UIMetrics
+    - MDFTextAccessibility
+  - MaterialComponents/Ink (70.0.0):
+    - MaterialComponents/private/Math
+  - MaterialComponents/private/Application (70.0.0)
+  - MaterialComponents/private/Icons/Base (70.0.0)
+  - MaterialComponents/private/Icons/ic_check_circle (70.0.0):
+    - MaterialComponents/private/Icons/Base
+  - MaterialComponents/private/Math (70.0.0)
+  - MaterialComponents/private/Shapes (70.0.0):
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/private/UIMetrics (70.0.0):
+    - MaterialComponents/private/Application
+  - MaterialComponents/ShadowElevations (70.0.0)
+  - MaterialComponents/ShadowLayer (70.0.0):
+    - MaterialComponents/ShadowElevations
+  - MDFTextAccessibility (1.2.0)
+  - Motion (1.4.3):
+    - Motion/Core (= 1.4.3)
+  - Motion/Core (1.4.3)
+  - OktaAuth (0.2.0):
+    - AppAuth (~> 0.91.0)
+  - SCLAlertView (0.8)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - ARCL
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - IQKeyboardManager
+  - KeychainSwift
+  - Material (~> 2.16)
+  - MaterialComponents/Cards
+  - MaterialComponents/FlexibleHeader
+  - OktaAuth (~> 0.2.0)
+  - SCLAlertView
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AppAuth
+    - ARCL
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - IQKeyboardManager
+    - KeychainSwift
+    - Material
+    - MaterialComponents
+    - MDFTextAccessibility
+    - Motion
+    - OktaAuth
+    - SCLAlertView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  AppAuth: 3e0dc9c00ef333dc62064e4830aa89b597ae8d2f
+  ARCL: 5fd2b0d7aabf91f15dbc0e8c510b25516b8a755a
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlacePicker: 59ea44db173c58486ad6123993e81feefcbce9c3
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  KeychainSwift: 23d6c16cbc33f20fafa30c3d783241b4b87d998c
+  Material: 4ed78690b09ffd148b5ffab6b4367fb1d8da1cd3
+  MaterialComponents: 7c107af5ae6566de2f1ba94bde3db99d1b874bab
+  MDFTextAccessibility: 94098925e0853551c5a311ce7c1ecefbe297cdb6
+  Motion: 153ba49692997888556c7a95207278a8b1f8be95
+  OktaAuth: 803d4765ec2ac6dc7e21a7dda541df401cf0cdb6
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 8cdeb5996fbb8f1a3d4a20e9ad023fff2cacbf34
+
+COCOAPODS: 1.6.0.beta.2

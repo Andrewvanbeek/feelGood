@@ -7,14 +7,29 @@
 //
 
 import UIKit
+import GooglePlaces
+import GoogleMaps
+import OktaAuth
+import IQKeyboardManager
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
+    let googleApiKey = "AIzaSyD6vICHz2KoRRoP5HrVRzPQOFiZjrK6mwk"
+    
+    func application(_ app: UIApplication, open url: URL, options: [UIApplication.OpenURLOptionsKey : Any]) -> Bool {
+        
+        var appConfig = OktaConfiguration()
+        
+        return OktaAuth.resume(url, options: options)
+    }
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        GMSPlacesClient.provideAPIKey("AIzaSyD6vICHz2KoRRoP5HrVRzPQOFiZjrK6mwk")
+        GMSServices.provideAPIKey("AIzaSyD6vICHz2KoRRoP5HrVRzPQOFiZjrK6mwk")
+        IQKeyboardManager.shared().isEnabled = true
         // Override point for customization after application launch.
         return true
     }
